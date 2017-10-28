@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dive and Conquer"
+title: "Divide and Conquer"
 date: 2017-10-28
 ---
 
