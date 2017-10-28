@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Dive and Conquer"
+date: 2017-10-28
+---
+
+
 Divide and conquer algorithm design technique is one of the first designs that we learn in college. But, how many of us remember the principle and use in our day to day activities.
 I want to give a refresher on the topic and also explain some concrete problems solved by it.
 
