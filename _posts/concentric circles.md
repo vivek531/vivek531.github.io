@@ -1,4 +1,9 @@
 
+---
+layout: post
+title: "Descision Boundaries Series - 1"
+date: 2019-02-06
+---
 
 ```python
 import numpy as np
