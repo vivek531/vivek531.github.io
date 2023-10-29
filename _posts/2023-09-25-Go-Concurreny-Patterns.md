@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python packages"
+title: "Go Concurrency Patterns"
 date: 2023-09-25
 ---
 
