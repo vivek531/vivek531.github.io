@@ -17,3 +17,5 @@ Few key points on how they improve shuffle are
 1. Instead running shuffle service on all nodes, they run their shuffle service as a standalone service.
 2. They also do merging of mapper output before the data is sent to the reducer tasks, improving the IO of the system.
 
+https://docs.google.com/document/d/1mYzKVZllA5Flw8AtoX7JUcXBOnNIDADWRbJ7GI6Y71Q/edit
+
