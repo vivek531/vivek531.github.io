@@ -18,4 +18,5 @@ Few key points on how they improve shuffle are
 2. They also do merging of mapper output before the data is sent to the reducer tasks, improving the IO of the system.
 
 https://docs.google.com/document/d/1mYzKVZllA5Flw8AtoX7JUcXBOnNIDADWRbJ7GI6Y71Q/edit
+https://issues.apache.org/jira/browse/SPARK-32915
 
